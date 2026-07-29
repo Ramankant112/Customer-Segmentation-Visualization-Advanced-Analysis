@@ -32,6 +32,9 @@ The project includes data cleaning, exploratory data analysis (EDA), customer se
 - Microsoft Excel
 
 ---
+## 📊 Dashboard
+
+![Dashboard](images/Dashboard.png)
 
 ## 📂 Project Structure
 
