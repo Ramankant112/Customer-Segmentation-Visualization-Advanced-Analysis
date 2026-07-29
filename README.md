@@ -171,11 +171,10 @@ The project uses the Telco Customer Churn dataset containing customer demographi
 
 **Raman Kant**
 
-📧 Email: your-email@example.com
+📧 Email: ramankant341@gmail.com
 
-🔗 LinkedIn: https://www.linkedin.com/in/your-linkedin
+🔗 LinkedIn: (https://www.linkedin.com/in/raman-kant-09754041a/)
 
-💻 GitHub: https://github.com/your-github
 
 ---
 
