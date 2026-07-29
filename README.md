@@ -34,7 +34,7 @@ The project includes data cleaning, exploratory data analysis (EDA), customer se
 ---
 ## 📊 Dashboard
 
-![Dashboard](images/Dashboard.png)
+![Dashboard](DashboardSS.png)
 
 ## 📂 Project Structure
 
